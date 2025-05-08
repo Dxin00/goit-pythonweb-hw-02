@@ -16,17 +16,17 @@
 
 ## Структура проєкту:
 
+```bash
 FullStack-Web-Development-hw2/
-│
 ├── conf/
-│ └── db.py # Підключення до бази
-├── static/ # Статичні файли
-├── templates/ # HTML шаблони
-├── main.py # FastAPI застосунок
-├── requirements.txt # Залежності
-├── Dockerfile # Docker інструкції
-├── docker-compose.yaml # Конфігурація середовища
-
+│   └── db.py               # Підключення до бази
+├── static/                 # Статичні файли
+├── templates/              # HTML шаблони
+├── main.py                 # FastAPI застосунок
+├── requirements.txt        # Залежності
+├── Dockerfile              # Docker інструкції
+├── docker-compose.yaml     # Конфігурація середовища
+```
 bash
 Копировать
 Редактировать
@@ -37,3 +37,4 @@ bash
 git clone https://github.com/GoIT-Python-Web/FullStack-Web-Development-hw2
 cd FullStack-Web-Development-hw2
 docker-compose up --build
+```
