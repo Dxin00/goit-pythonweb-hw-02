@@ -27,9 +27,6 @@ FullStack-Web-Development-hw2/
 ├── Dockerfile              # Docker інструкції
 ├── docker-compose.yaml     # Конфігурація середовища
 ```
-bash
-Копировать
-Редактировать
 
 ## Як запустити:
 
